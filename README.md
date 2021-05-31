@@ -12,3 +12,9 @@
 |8|중간 고사|
 |9|의사결정나무|[기상데이터 이용 태양광 발전 예측](https://github.com/yunjeong-chang/2021_MachineLearning/blob/main/9%EC%A3%BC%EC%B0%A8_%ED%83%9C%EC%96%91%EA%B4%91%EB%B0%9C%EC%A0%84%EB%9F%89%EC%98%88%EC%B8%A1.ipynb)|
 |10|SVM|3D MNIST 숫자 분류, 날씨 및 유동인구에 따른 교통량 추이|
+|11|군집화|2D 영상 데이터 분류 문제|
+|12|차원 축소||
+|13|교차 검증||
+|14|||
+|15|||
+|16|기말고사|

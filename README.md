@@ -15,6 +15,6 @@
 |11|[군집화](https://github.com/yunjeong-chang/2021_MachineLearning/blob/main/%EA%B5%B0%EC%A7%91%ED%99%94/%EA%B5%B0%EC%A7%91%ED%99%94%20%EC%9D%B4%EB%A1%A0.md)|2D 영상 데이터 분류 문제|
 |12|[차원 축소](https://github.com/yunjeong-chang/2021_MachineLearning/blob/main/%EC%B0%A8%EC%9B%90%20%EC%B6%95%EC%86%8C/%EC%B0%A8%EC%9B%90%20%EC%B6%95%EC%86%8C%20%EC%9D%B4%EB%A1%A0.md)||
 |13|[교차 검증](https://github.com/yunjeong-chang/2021_MachineLearning/blob/main/%EB%AA%A8%ED%98%95%EC%A7%84%EB%8B%A8%EA%B3%BC%20%EA%B5%90%EC%B0%A8%EA%B2%80%EC%A6%9D/%EB%AA%A8%ED%98%95%EC%A7%84%EB%8B%A8%EA%B3%BC%20%EA%B5%90%EC%B0%A8%EA%B2%80%EC%A6%9D%20%EC%9D%B4%EB%A1%A0.md)||
-|14|앙상블||
+|14|[앙상블](https://github.com/yunjeong-chang/2021_MachineLearning/blob/main/%EC%95%99%EC%83%81%EB%B8%94/%EC%95%99%EC%83%81%EB%B8%94%20%EC%9D%B4%EB%A1%A0.md)||
 |15|텀프로젝트|1번, 2번, 3번, 4번, 5번|
 |16|기말고사|

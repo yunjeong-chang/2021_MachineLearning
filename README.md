@@ -16,5 +16,5 @@
 |12|[차원 축소](https://github.com/yunjeong-chang/2021_MachineLearning/blob/main/%EC%B0%A8%EC%9B%90%20%EC%B6%95%EC%86%8C/%EC%B0%A8%EC%9B%90%20%EC%B6%95%EC%86%8C%20%EC%9D%B4%EB%A1%A0.md)|||
 |13|[교차 검증](https://github.com/yunjeong-chang/2021_MachineLearning/blob/main/%EB%AA%A8%ED%98%95%EC%A7%84%EB%8B%A8%EA%B3%BC%20%EA%B5%90%EC%B0%A8%EA%B2%80%EC%A6%9D/%EB%AA%A8%ED%98%95%EC%A7%84%EB%8B%A8%EA%B3%BC%20%EA%B5%90%EC%B0%A8%EA%B2%80%EC%A6%9D%20%EC%9D%B4%EB%A1%A0.md)|||
 |14|[앙상블](https://github.com/yunjeong-chang/2021_MachineLearning/blob/main/%EC%95%99%EC%83%81%EB%B8%94/%EC%95%99%EC%83%81%EB%B8%94%20%EC%9D%B4%EB%A1%A0.md)|||
-|15|텀프로젝트|1번, 2번, 3번, 4번, 5번||
+|15|텀프로젝트|[1번](https://www.kaggle.com/c/2021-ml-tp8), [2번](https://www.kaggle.com/c/2021-ml-tp2-spam), [3번](https://www.kaggle.com/c/2021-ml-tp-p6), [4번](https://www.kaggle.com/c/2021-ml-tp04), [5번](https://www.kaggle.com/c/2021-ml-tp4/overview)||
 |16|기말고사||

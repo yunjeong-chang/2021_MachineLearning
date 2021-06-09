@@ -2,8 +2,8 @@
 
 |week|Cource Contents|Assignment|Code|
 |:--:|:--:|:--:|:--:|
-|1|교과목 소개, 코랩 소개||
-|2|캐글 소개, 데이터 이해와 데이터 시각화||
+|1|교과목 소개||
+|2|데이터 이해와 데이터 시각화||
 |3|ML 생애주기|
 |4|사이킷런 소개, 데이터 전처리||
 |5|KNN|[재배 환경 별 작물 종류 예측](https://www.kaggle.com/c/2021-ml-p3/overview), [자동차 가격 예측](https://www.kaggle.com/c/2021-ml-p6/data)|[재배 환경 별 작물 종류 예측](https://github.com/yunjeong-chang/2021_MachineLearning/blob/main/5%EC%A3%BC%EC%B0%A8_Assignment1_%EC%9E%91%EB%AC%BC%20%EC%A2%85%EB%A5%98%20%EC%98%88%EC%B8%A1.ipynb),[자동차 가격 예측](https://github.com/yunjeong-chang/2021_MachineLearning/blob/main/5%EC%A3%BC%EC%B0%A8_Assignment2_%EC%9E%90%EB%8F%99%EC%B0%A8%20%EA%B0%80%EA%B2%A9%20%EC%98%88%EC%B8%A1_18012576_%EC%9E%A5%EC%9C%A4%EC%A0%95.ipynb)|
